@@ -1,0 +1,16 @@
+{
+  "name": "hola-mundo",
+  "version": "1.0.0",
+  "description": "Este es mi primer proyecto con node",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "hola": "node hola.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Hola-mundo"
+  ],
+  "author": "Camila Paz",
+  "license": "ISC"
+}
