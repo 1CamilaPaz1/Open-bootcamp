@@ -10,11 +10,11 @@
 
 - Tu libro favorito (Objeto con propiedades: titulo, autor, fecha, url)*/ 
 
- var arreglo = ['Camila Paz', 21, true, Date(2001, 3, 3)];
+ var arreglo = ['Camila Paz', 21, true, new Date(2001, 3, 3)];
  const libro = {
      titulo : 'Harry Potter y el prisionero de Azkaban',
      autor : 'J.k. Rowling',
-     fecha : Date(2004, 5, 11),
+     fecha : new Date(2004, 5, 11),
      url : 'https://es.wikipedia.org/wiki/Harry_Potter_y_el_prisionero_de_Azkaban_(pel%C3%ADcula)'
  }
  
